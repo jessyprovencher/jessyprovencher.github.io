@@ -89,7 +89,7 @@ params:
 
   # edit post
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/jessyprovencher/jessyprovencher-xyz/tree/master/content"
     Text: "Suggest changes"
     appendFilePath: true
 
