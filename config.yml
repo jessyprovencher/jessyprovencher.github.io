@@ -1,0 +1,137 @@
+theme: "PaperMod"
+languageCode: en-us
+title: jessyprovencher.xyz
+baseURL: https://jessyprovencher.xyz/
+
+# enable options
+enableEmoji: true
+enableRobotsTXT: true
+
+# build option
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  author: Jessy Provencher
+  title: jessyprovencher.xyz
+  description: "jessyprovencher's website"
+  # keywords: [Jessy Provencher, jessyprovencher, portfolio, posts]
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
+
+  # theme
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  # date
+  dateFormat: "January 2, 2006"
+  
+  # show options
+  showReadingTime: true
+  showBreadCrumbs: true
+  showPostNavLinks: true
+  showShareButtons: false
+  showCodeCopyButtons: true
+
+  # disable options
+  comments: false
+  disableScrollToTop: false
+  disableSpecial1stPost: false
+
+  # hide options
+  hideMeta: false
+  hideSummary: false
+
+  # table of contents (toc)
+  showToc: true
+  tocOpen: false
+
+  assets:
+    disableHLJS: true
+    disableFingerprinting: true
+    # favicon: "<link / abs url>"
+    # favicon16x16: "<link / abs url>"
+    # favicon32x32: "<link / abs url>"
+    # apple_touch_icon: "<link / abs url>"
+    # safari_pinned_tab: "<link / abs url>"
+
+  # header
+  label:
+    text: "jessyprovencher.xyz"
+
+  # profile mode
+  profileMode:
+    enabled: true
+    title: jessyprovencher.xyz
+    subtitle: "Follow me here:"
+    imageUrl: "https://avatars.githubusercontent.com/u/70674444"
+    imageWidth: 160
+    imageHeight: 160
+    imageTitle: Jessy Provencher
+
+  # profile icons
+  profileIcons:
+    - name: github
+      url: "https://github.com/jessyprovencher"
+    - name: linkedin
+      url: "https://ca.linkedin.com/in/jessy-provencher"
+
+  # cover
+  cover:
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: true
+
+  # edit post
+  editPost:
+    URL: "https://github.com/<path_to_repo>/content"
+    Text: "Suggest changes"
+    appendFilePath: true
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# taxonomies
+taxonomies:
+  tag: tags
+  category: categories
+  
+# menu options
+menu:
+  main:
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 30
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 40
+
+# outputs
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
