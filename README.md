@@ -9,7 +9,7 @@
     Navigate into the root directory and start it up.
 
     ```shell
-    cd jessyprovencher-xyz/
+    cd jessyprovencher.github.io/
     hugo server
     ```
 
