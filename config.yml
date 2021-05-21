@@ -65,9 +65,6 @@ params:
   # theme
   defaultTheme: auto
   disableThemeToggle: false
-
-  # date
-  dateFormat: "January 2, 2006"
   
   # show options
   showReadingTime: true
@@ -128,7 +125,6 @@ params:
   # edit post
   editPost:
     URL: "https://github.com/jessyprovencher/jessyprovencher-xyz/tree/master/content"
-    # Text: "Suggest changes"
     appendFilePath: true
 
   # for search
