@@ -1,34 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://jessyprovencher.xyz/categories/</loc>
-    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jessyprovencher.xyz/categories/code-quality/</loc>
-    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jessyprovencher.xyz/tags/dtd/</loc>
-    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jessyprovencher.xyz/</loc>
-    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jessyprovencher.xyz/posts/</loc>
-    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jessyprovencher.xyz/tags/</loc>
-    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jessyprovencher.xyz/posts/validating-xml/</loc>
-    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jessyprovencher.xyz/tags/xml/</loc>
-    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jessyprovencher.xyz/tags/xsd/</loc>
-    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jessyprovencher.xyz/search/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://jessyprovencher.xyz/en/sitemap.xml</loc>
+    
+      <lastmod>2021-05-15T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://jessyprovencher.xyz/fr/sitemap.xml</loc>
+    
+      <lastmod>2021-05-15T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>

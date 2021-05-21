@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mots-clés on jessyprovencher.xyz</title>
+    <link>https://jessyprovencher.xyz/fr/tags/</link>
+    <description>Recent content in Mots-clés on jessyprovencher.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jessyprovencher.xyz/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dtd</title>
+      <link>https://jessyprovencher.xyz/fr/tags/dtd/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jessyprovencher.xyz/fr/tags/dtd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xml</title>
+      <link>https://jessyprovencher.xyz/fr/tags/xml/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jessyprovencher.xyz/fr/tags/xml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xsd</title>
+      <link>https://jessyprovencher.xyz/fr/tags/xsd/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jessyprovencher.xyz/fr/tags/xsd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
