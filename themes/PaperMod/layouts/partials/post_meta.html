@@ -1,7 +1,11 @@
 {{- $scratch := newScratch }}
 
 {{- if not .Date.IsZero -}}
-{{- $scratch.Add "meta" (slice (.Date.Format (default "January 2, 2006" .Site.Params.DateFormat))) }}
+    {{ if eq ":fr:" .Language.LanguageName}}
+    {{- $scratch.Add "meta" (slice (.Date.Format (default "02/01/2006"))) }}
+    {{- else }}
+    {{- $scratch.Add "meta" (slice (.Date.Format (default "01/02/2006"))) }}
+    {{- end }}
 {{- end }}
 
 {{- if (.Param "ShowReadingTime") -}}

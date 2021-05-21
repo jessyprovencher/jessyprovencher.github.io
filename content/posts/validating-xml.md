@@ -37,7 +37,7 @@ It must respect these syntax rules:
 
 # How to validate?
 
-To validate our XML document, we'll need to create two new documents. I won't provide examples because I'm sure you
+To validate our XML document, we'll need to create two new files. I won't provide examples because I'm sure you
 can find some docs and/or tools online to help you with this task.
 
 Firstly, we'll need a DTD (Document Type Definition) file. It defines the valid building blocks of our XML document
