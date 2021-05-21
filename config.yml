@@ -42,7 +42,7 @@ languages:
           url: /posts/
           weight: 10
         - identifier: tags
-          name: mots clés
+          name: mots-clés
           url: /tags/
           weight: 20
         - identifier: categories
