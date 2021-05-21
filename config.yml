@@ -16,6 +16,44 @@ minify:
   disableXML: true
   minifyOutput: true
 
+languages:
+  en:
+    languageName: ":us:"
+    languageAltTitle: English
+    weight: 1
+  fr:
+    languageName: ":fr:"
+    languageAltTitle: French
+    weight: 2
+    # profile mode
+    profileMode:
+      enabled: true
+      title: jessyprovencher.xyz
+      subtitle: "Suivez-moi ici:"
+      imageUrl: "https://avatars.githubusercontent.com/u/70674444"
+      imageWidth: 160
+      imageHeight: 160
+      imageTitle: Jessy Provencher
+    # menu options
+    menu:
+      main:
+        - identifier: posts
+          name: articles
+          url: /posts/
+          weight: 10
+        - identifier: tags
+          name: mots clés
+          url: /tags/
+          weight: 20
+        - identifier: categories
+          name: catégories
+          url: /categories/
+          weight: 30
+        - identifier: search
+          name: recherche
+          url: /search/
+          weight: 40
+
 params:
   env: production
   author: Jessy Provencher

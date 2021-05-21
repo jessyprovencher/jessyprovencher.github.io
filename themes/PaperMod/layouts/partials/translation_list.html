@@ -7,11 +7,7 @@
     {{- range .Translations }}
     <li>
         <a href="{{ .Permalink }}">
-            {{- if (and $.Site.Params.displayFullLangName (.Language.LanguageName)) }}
             {{- .Language.LanguageName | emojify -}}
-            {{- else }}
-            {{- .Lang | title -}}
-            {{- end -}}
         </a>
     </li>
     {{- end }}
