@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jessyprovencher.xyz/fr/</loc>
+    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jessyprovencher.xyz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jessyprovencher.xyz/fr/"
+                />
+  </url><url>
     <loc>https://jessyprovencher.xyz/fr/posts/</loc>
     <lastmod>2021-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -52,19 +65,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://jessyprovencher.xyz/fr/tags/dtd/"
-                />
-  </url><url>
-    <loc>https://jessyprovencher.xyz/fr/</loc>
-    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jessyprovencher.xyz/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jessyprovencher.xyz/fr/"
                 />
   </url><url>
     <loc>https://jessyprovencher.xyz/fr/tags/</loc>
