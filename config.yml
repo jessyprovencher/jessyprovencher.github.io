@@ -29,7 +29,7 @@ languages:
     profileMode:
       enabled: true
       title: jessyprovencher.xyz
-      subtitle: "Suivez-moi ici:"
+      subtitle: "Lien rapides"
       imageUrl: "https://avatars.githubusercontent.com/u/70674444"
       imageWidth: 160
       imageHeight: 160
@@ -103,18 +103,24 @@ params:
   profileMode:
     enabled: true
     title: jessyprovencher.xyz
-    subtitle: "Follow me here:"
-    imageUrl: "https://avatars.githubusercontent.com/u/70674444"
+    subtitle: "Quick links"
+    imageUrl: "/avatar.jpg"
     imageWidth: 160
     imageHeight: 160
     imageTitle: Jessy Provencher
 
   # profile icons
   profileIcons:
+    - name: rss
+      url: "/index.xml"
+    #- name: cv
+    #  url: "todo"
     - name: github
       url: "https://github.com/jessyprovencher"
     - name: linkedin
       url: "https://ca.linkedin.com/in/jessy-provencher"
+    - name: paypal
+      url: "https://www.paypal.me/jessyprovencher"
 
   # cover
   cover:

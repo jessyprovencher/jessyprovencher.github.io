@@ -2,9 +2,12 @@
 
 {{- if not .Date.IsZero -}}
     {{ if eq ":fr:" .Language.LanguageName}}
-    {{- $scratch.Add "meta" (slice (.Date.Format (default "02/01/2006"))) }}
+    {{ $month_names := slice "janvier" "février" "mars" "avril" "mai" "juin" "juillet" "août" "septembre" "octobre" "novembre" "décembre" }}
+    {{ $month := sub .Date.Month 1 }}
+    {{ .Date.Day }}{{ if eq .Date.Day 1 }}er{{end}}&nbsp;{{ index $month_names $month }} {{ .Date.Year }}
+    {{"· "}}
     {{- else }}
-    {{- $scratch.Add "meta" (slice (.Date.Format (default "01/02/2006"))) }}
+    {{- $scratch.Add "meta" (slice (.Date.Format (default "January 2, 2006"))) }}
     {{- end }}
 {{- end }}
 
