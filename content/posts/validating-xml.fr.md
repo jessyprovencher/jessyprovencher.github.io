@@ -45,7 +45,7 @@ Maintenant, testons notre document XML. :scientist:
 
 De nombreuses ressources en ligne et IDEs (par exemple Eclipse) fournissent des moyens de valider notre document.
 Cependant, je vais vous montrer une façon rapide et simple de le faire localement. Nous aurons besoin du programme
-xmllint inclus avec la librarie [libxml](http://www.xmlsoft.org).
+xmllint inclus avec la librairie [libxml](http://www.xmlsoft.org).
 
 Si vous utilisez Arch Linux, vous pouvez installer les requis avec la commande suivante:
 
