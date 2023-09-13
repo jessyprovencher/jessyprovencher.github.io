@@ -111,8 +111,8 @@ params:
 
   # profile icons
   profileIcons:
-    - name: rss
-      url: "/index.xml"
+    #- name: rss
+    #  url: "/index.xml" // TODO: Rework for both language, ensure post body is inside xml file
     #- name: cv
     #  url: "todo"
     - name: github
