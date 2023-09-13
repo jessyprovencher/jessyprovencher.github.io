@@ -85,6 +85,19 @@
                 href="https://jessyprovencher.xyz/fr/categories/code-quality/"
                 />
   </url><url>
+    <loc>https://jessyprovencher.xyz/fr/posts/how-to-validate-xml/</loc>
+    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jessyprovencher.xyz/posts/how-to-validate-xml/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jessyprovencher.xyz/fr/posts/how-to-validate-xml/"
+                />
+  </url><url>
     <loc>https://jessyprovencher.xyz/fr/tags/dtd/</loc>
     <lastmod>2021-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -96,19 +109,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://jessyprovencher.xyz/fr/tags/dtd/"
-                />
-  </url><url>
-    <loc>https://jessyprovencher.xyz/fr/posts/validating-xml/</loc>
-    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jessyprovencher.xyz/posts/validating-xml/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jessyprovencher.xyz/fr/posts/validating-xml/"
                 />
   </url><url>
     <loc>https://jessyprovencher.xyz/fr/tags/xml/</loc>
