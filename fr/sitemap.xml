@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jessyprovencher.xyz/fr/</loc>
-    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://jessyprovencher.xyz/fr/posts/</loc>
-    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://jessyprovencher.xyz/fr/categories/</loc>
-    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -40,6 +40,37 @@
                 hreflang="fr"
                 href="https://jessyprovencher.xyz/fr/categories/"
                 />
+  </url><url>
+    <loc>https://jessyprovencher.xyz/fr/tags/ift320/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jessyprovencher.xyz/fr/tags/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jessyprovencher.xyz/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jessyprovencher.xyz/fr/tags/"
+                />
+  </url><url>
+    <loc>https://jessyprovencher.xyz/fr/categories/sherbrooke/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jessyprovencher.xyz/fr/tags/ssh/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jessyprovencher.xyz/fr/tags/terminal/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jessyprovencher.xyz/fr/categories/university/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jessyprovencher.xyz/fr/posts/enabling-ssh-on-ift320-virtual-machines/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jessyprovencher.xyz/fr/categories/code-quality/</loc>
     <lastmod>2021-05-15T00:00:00+00:00</lastmod>
@@ -65,19 +96,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://jessyprovencher.xyz/fr/tags/dtd/"
-                />
-  </url><url>
-    <loc>https://jessyprovencher.xyz/fr/tags/</loc>
-    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jessyprovencher.xyz/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jessyprovencher.xyz/fr/tags/"
                 />
   </url><url>
     <loc>https://jessyprovencher.xyz/fr/posts/validating-xml/</loc>
