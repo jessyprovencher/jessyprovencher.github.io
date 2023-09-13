@@ -1,11 +1,11 @@
 ---
 draft: false
 date: 2021-05-15
-title: "Validating XML"
+title: "How to validate XML?"
 tags: ["xml", "dtd", "xsd"]
 categories: ["code quality"]
 description: "Yes, even XML documents must be validated."
-canonicalURL: "https://jessyprovencher.xyz/posts/validating-xml/"
+canonicalURL: "https://jessyprovencher.xyz/posts/how-to-validate-xml/"
 ---
 
 Last week, I had a lecture about the fundamentals of XML and JSON. I expected another long explanation about things

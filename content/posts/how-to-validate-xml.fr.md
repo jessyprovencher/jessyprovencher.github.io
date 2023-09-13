@@ -1,11 +1,11 @@
 ---
 draft: false
 date: 2021-05-15
-title: "Validation XML"
+title: "Comment valider un fichier XML?"
 tags: ["xml", "dtd", "xsd"]
 categories: ["code quality"]
-description: "Oui, même les documents XML doivent être validés"
-canonicalURL: "https://jessyprovencher.xyz/posts/validating-xml/"
+description: "Oui, même les documents XML doivent être validés."
+canonicalURL: "https://jessyprovencher.xyz/posts/how-to-validate-xml/"
 ---
 
 La semaine passée, j'ai eu un retour sur les bases de XML et JSON. Je m'attendais à un long monologue sur des choses que
